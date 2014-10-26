@@ -4,7 +4,7 @@ email:       joakim.ekstrom@gmail.com
 author:      Joakim Ekström
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://jocke12.github.io"
+url:         "http://jockee.github.io"
 
 # Google analytics
 google_analytics:
@@ -17,7 +17,7 @@ show_post_footers:  false
 # Social icons
 show_social_icons: false
 github_username: jocke12
-twitter_username: jocke12
+twitter_username:
 google_plus_id:
 linkedin_username:
 bitcoin_url:
